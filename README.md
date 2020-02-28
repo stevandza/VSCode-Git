@@ -1,2 +1,3 @@
 # VSCode-Git
-Testiranje
+Testiranje Programa iz VS koda
+
